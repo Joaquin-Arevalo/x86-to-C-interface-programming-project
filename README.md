@@ -1,6 +1,6 @@
 Debug and release mode C and x86-64
 
-**i.) comparative execution time and short analysis of the performance of the kernels**
+**i.) Comparative execution time and short analysis of the performance of the kernels**
 **Debug Mode** (average execution times for each vector size n)
 n = 1048576 or 220
 C = 0.004 seconds
