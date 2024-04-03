@@ -1,4 +1,8 @@
-Debug and release mode C and x86-64
+Arevalo, Joaquin
+Uy, Dylan
+S11
+
+**Debug and release mode C and x86-64**
 
 **i.) Comparative execution time and short analysis of the performance of the kernels**
 **Debug Mode** (average execution times for each vector size n)
