@@ -1,8 +1,6 @@
 Debug and release mode; C and x86-64
 
 i) comparative execution time and short analysis of the performance of the kernels
-Across all tests, the x86-64 implementation consistently outperforms the C implementation in terms of speed. This performance trend indicates that the x86-64 implementation of the kernels exhibits significantly greater efficiency in execution time compared to the C implementation, suggesting potential optimizations or inherent performance advantages within the x86-64 architecture for these specific tasks.
-ii) Take a screenshot of the program output with the correctness check (C)
 ![C](https://github.com/Joaquin-Arevalo/x86-to-C-interface-programming-project/assets/160611650/b73b97d0-8dd5-4253-9286-b9fe8368dfcc)
 
 iii) Take a screenshot of the program output, including the correctens check (x86-64)
