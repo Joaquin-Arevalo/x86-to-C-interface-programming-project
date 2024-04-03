@@ -1,7 +1,5 @@
 Arevalo, Joaquin
-
 Uy, Dylan
-
 S11
 
 **Debug and release mode C and x86-64**
